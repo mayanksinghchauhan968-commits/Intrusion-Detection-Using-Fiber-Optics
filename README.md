@@ -14,7 +14,7 @@ The system also detects light-level faults (no light / low light / oversaturatio
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram.png)
+<img src="images/circuit-diagram.png" width="600">
 
 ## Features
 
@@ -29,9 +29,9 @@ The system also detects light-level faults (no light / low light / oversaturatio
 
 ## Web Dashboard
 
-![Dashboard View 1](images/dashboard-1.png)
-![Dashboard View 2](images/dashboard-2.png)
-![Dashboard View 3](images/dashboard-3.png)
+<img src="images/dashboard-1.png" width="500">
+<img src="images/dashboard-2.png" width="500">
+<img src="images/dashboard-3.png" width="500">
 
 ## Hardware Used
 

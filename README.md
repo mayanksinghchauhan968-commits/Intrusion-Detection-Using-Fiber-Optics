@@ -29,7 +29,9 @@ The system also detects light-level faults (no light / low light / oversaturatio
 
 ## Web Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard View 1](images/dashboard-1.png)
+![Dashboard View 2](images/dashboard-2.png)
+![Dashboard View 3](images/dashboard-3.png)
 
 ## Hardware Used
 
@@ -54,7 +56,7 @@ Install these via the Arduino Library Manager before compiling.
    ```cpp
    const char* ssid = "YOUR_WIFI_NAME";
    const char* password = "YOUR_WIFI_PASSWORD";
-   
+   ```
 3. Connect your hardware as per the pin definitions in the code (LCD pins, ADC pin, buzzer pin).
 4. Upload the sketch to your ESP32.
 5. Open the Serial Monitor to find the ESP32's IP address once it connects to WiFi.

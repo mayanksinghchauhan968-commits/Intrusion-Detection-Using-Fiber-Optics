@@ -29,9 +29,13 @@ The system also detects light-level faults (no light / low light / oversaturatio
 
 ## Web Dashboard
 
-<img src="images/dashboard-1.png" width="200">
-<img src="images/dashboard-2.png" width="200">
-<img src="images/dashboard-3.png" width="200">
+<table>
+  <tr>
+    <td><img src="images/dashboard-1.png" width="300"></td>
+    <td><img src="images/dashboard-2.png" width="300"></td>
+    <td><img src="images/dashboard-3.png" width="300"></td>
+  </tr>
+</table>
 
 ## Hardware Used
 
